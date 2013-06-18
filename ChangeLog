@@ -1,0 +1,51 @@
+                     Change log for ViSP-images
+
+       Copyright Projet Lagadic / IRISA-INRIA Rennes, 2006-2013
+                  www: http://www.irisa.fr/lagadic
+
+
+ViSP-images contains data (images, sequences, cad models, calibration grid)
+useful to ViSP examples and tests provided in ViSP releases.
+
+The most recent version of ViSP-images is available on ViSP download web page:
+http://www.irisa.fr/lagadic/visp/download.html
+
+See README to learn how to use ViSP-images data.
+
+ViSP-images-2.7.0: February 11th, 2013:
+- This version of ViSP-images was introduced with ViSP-2.7.0 release.
+- New mbt/cube.xml file that contains Edges, KLT or hybrid model based
+  trackers settings.
+
+ViSP-images-2.6.1: February 16th, 2011:
+- This version of ViSP-images was introduced with ViSP-2.6.1 release.
+- Suppression of mbt/cube2 dataset.
+- Addition of mbt/cube.cao 3d model.
+- Modification of the sequence in "mbt/cube/"
+- Addition of new model to track a cylinder and a cube for the model based
+  tracker example.
+
+ViSP-images-2.6.0: September 23rd, 2010:
+- This version of ViSP-images was introduced with ViSP-2.6.0 release.
+- Addition of the mire directory containing two mire files used by the
+  servoSimu4Points demo.
+  This version of ViSP-images is to use with
+- Addition of the mbt directory used by the vpMbEdgeTracker example.
+
+ViSP-images-2.4.4: January 4th, 2010:
+- This version of ViSP-images was introduced with ViSP-2.4.4 release.
+- Addition of video directory containing an mpeg video file used by the
+  videoReader example.
+- Addition of Klimt.jpeg and Klimt.png used by the testReadImage test.
+
+ViSP-images-2.4.2: March 19th, 2008:
+- This version of ViSP-images was introduced with ViSP-2.4.2 release.
+- Addition of calibration directory containing calibration images and data for
+  example/calibration binaries.
+
+ViSP-images-1.1.0: September 13th, 2006:
+- Addition of iv directory containing cad models useful for
+  test/simulator binaries
+
+ViSP-images-1.0.0: August 25th, 2006:
+- Initial version.

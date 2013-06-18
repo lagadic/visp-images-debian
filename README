@@ -1,0 +1,68 @@
+                           ViSP-images
+
+       Copyright Projet Lagadic / IRISA-INRIA Rennes, 2006-2011
+                  www: http://www.irisa.fr/lagadic
+
+
+
+ViSP-images contains some images, image sequences and cad models
+useful to run the ViSP example or test programs.
+
+ViSP (ViSP states for ``Visual Servoing Platform'') is a modular
+software that allows fast development of visual servoing
+applications. Visual servoing consists in specifying a task as the
+regulation of a set of visual features. ViSP is avalaible from
+http://www.irisa.fr/lagadic/visp
+
+The most recent version of ViSP-images is available on ViSP download web page:
+http://www.irisa.fr/lagadic/visp/download.html
+
+To know which are the new data introduced in ViSP-images see ChangeLog.
+
+To use ViSP-images in conjunction with ViSP examples or tests, you can
+either set the VISP_INPUT_IMAGE_PATH environment variable
+(recommended) or precise the location of ViSP-images through the
+program's -i command line option.
+
+Below, we suppose that ViSP-images directory is installed in
+<my directory>/ViSP-images
+
+1. Setting VISP_INPUT_IMAGE_PATH environment variable
+1.1. On Unix platforms
+
+Depending on your shell you can set VISP_INPUT_IMAGE_PATH by:
+
+  setenv VISP_INPUT_IMAGE_PATH <my directory>
+
+or by:
+
+  export VISP_INPUT_IMAGE_PATH=<my directory>
+
+1.2. On Windows platforms
+
+You can create an C:\autoexec.bat file in which you have:
+
+  SET VISP_INPUT_IMAGE_PATH=<my directory>
+
+
+2. Using program's -i command line option
+
+Most of ViSP test or example programs are using command line
+options. If these programs need images, sequences or cad models
+located in ViSP-images, you can use the -i command line option to
+precise the location of ViSP-images.
+
+Here an example:
+Suppose that ViSP is installed and compiled. Thus you have build 
+<ViSP>/test/images/testConversion executable.
+
+
+%<ViSP>/test/images/testConversion -h 
+
+  Show the program usage.
+
+%<ViSP>/test/images/testConversion -i <my directory> 
+
+  Will run testConversion on images located in <my directory>/ViSP-images
+
+
