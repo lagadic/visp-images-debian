@@ -3,8 +3,7 @@ Maintainer: Debian Science Maintainers <debian-science-maintainers@lists.alioth.
 Uploaders: Thomas Moulard <thomas.moulard@gmail.com>
 Section: science
 Priority: extra
-Build-Depends: debhelper (>= 9),
-	       pkg-kde-tools (>= 0.6)
+Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.4
 Vcs-Browser: http://git.debian.org/?p=debian-science/packages/visp-images.git
 Vcs-Git: git://git.debian.org/debian-science/packages/visp-images.git
