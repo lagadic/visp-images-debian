@@ -1,0 +1,5 @@
+visp-images (2.7.0-1) unstable; urgency=low
+
+  * Import new upstream version 2.7.0 (Closes: #712645).
+
+ -- Thomas Moulard <thomas.moulard@gmail.com>  Tue, 18 Jun 2013 16:39:00 +0900

@@ -1,0 +1,11 @@
+#!/usr/bin/make -f
+# -*- makefile -*-
+
+.PHONY: override_dh_fixperms
+
+%:
+	dh  $@ --parallel
+
+override_dh_fixperms:
+	chmod 644 debian/visp-images-data/usr/share/visp-images-data/mire/mire.jpg
+	dh_fixperms --

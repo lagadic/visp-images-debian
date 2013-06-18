@@ -1,0 +1,14 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: ViSP
+Upstream-Contact: visp@inria.fr
+Source: http://www.irisa.fr/lagadic/visp/download.html
+
+Files: *
+Copyright: 2005-2012, INRIA
+License: GPL-2
+ See `/usr/share/common-licenses/GPL-2'.
+
+Files: debian/*
+Copyright: 2013, Thomas Moulard <thomas.moulard@gmail.com>
+License: GPL-2
+ See `/usr/share/common-licenses/GPL-2'.
