@@ -5,8 +5,8 @@ Section: science
 Priority: extra
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.4
-Vcs-Browser: http://git.debian.org/?p=debian-science/packages/visp-images.git
-Vcs-Git: git://git.debian.org/debian-science/packages/visp-images.git
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=debian-science/packages/visp-images.git
+Vcs-Git: git://anonscm.debian.org/debian-science/packages/visp-images.git
 Homepage: http://www.irisa.fr/lagadic/visp/visp.html
 
 Package: visp-images-data
