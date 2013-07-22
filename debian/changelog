@@ -1,4 +1,4 @@
-visp-images (2.7.1) unstable; urgency=low
+visp-images (2.7.1-1) unstable; urgency=low
 
   * Import new upstream version 2.7.1 (Closes: #712645).
 
