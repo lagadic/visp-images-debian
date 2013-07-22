@@ -12,6 +12,11 @@ http://www.irisa.fr/lagadic/visp/download.html
 
 See README to learn how to use ViSP-images data.
 
+ViSP-images-2.7.1: July 19th, 2013:
+- This version of ViSP-images was introduced with ViSP-2.7.1 release.
+- New mbt/cube.xml file that contains new clipping parameters.
+- New calibration/OpenCV_Chessboard.pdf grid.
+
 ViSP-images-2.7.0: February 11th, 2013:
 - This version of ViSP-images was introduced with ViSP-2.7.0 release.
 - New mbt/cube.xml file that contains Edges, KLT or hybrid model based
