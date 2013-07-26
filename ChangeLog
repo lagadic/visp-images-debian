@@ -12,6 +12,9 @@ http://www.irisa.fr/lagadic/visp/download.html
 
 See README to learn how to use ViSP-images data.
 
+ViSP-images-2.8.0: July 24th, 2013:
+- Zip renaming in 2.8.0 to match the release.
+
 ViSP-images-2.7.1: July 19th, 2013:
 - This version of ViSP-images was introduced with ViSP-2.7.1 release.
 - New mbt/cube.xml file that contains new clipping parameters.
