@@ -1,10 +1,10 @@
 Source: visp-images
 Maintainer: Debian Science Maintainers <debian-science-maintainers@lists.alioth.debian.org>
-Uploaders: Thomas Moulard <thomas.moulard@gmail.com>
+Uploaders: Thomas Moulard <thomas.moulard@gmail.com>, Fabien Spindler <Fabien.Spindler@inria.fr>
 Section: science
 Priority: extra
 Build-Depends: debhelper (>= 9)
-Standards-Version: 3.9.4
+Standards-Version: 3.9.5
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=debian-science/packages/visp-images.git
 Vcs-Git: git://anonscm.debian.org/debian-science/packages/visp-images.git
 Homepage: http://www.irisa.fr/lagadic/visp/visp.html
@@ -14,9 +14,9 @@ Architecture: all
 Depends: ${misc:Depends}
 Multi-Arch: foreign
 Description: visual servoing library - reference files
- ViSP, standing for Visual Servoing Platform, is unique. This software
- is a complete cross-platform solution that allows prototyping and
- developing applications in visual tracking and visual servoing.
+ ViSP, standing for Visual Servoing Platform, is a complete cross-platform
+ library that allows prototyping and developing applications in visual
+ tracking and visual servoing.
  .
  ViSP can be useful in robotics, computer vision, augmented reality and
  computer animation.
