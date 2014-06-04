@@ -1,6 +1,6 @@
                      Change log for ViSP-images
 
-       Copyright Projet Lagadic / IRISA - Inria Rennes, 2006-2013
+       Copyright Projet Lagadic / IRISA - Inria Rennes, 2006-2014
                   www: http://team.inria.fr/lagadic
 
 
@@ -8,9 +8,12 @@ ViSP-images contains data (images, sequences, cad models, calibration grid)
 useful to ViSP examples and tests provided in ViSP releases.
 
 The most recent version of ViSP-images is available on ViSP download web page:
-http://www.irisa.fr/lagadic/visp/download.html
+http://team.inria.fr/lagadic/visp/download.html
 
 See README to learn how to use ViSP-images data.
+
+ViSP-images-2.9.0: February 18th, 2014:
+- Zip renaming in 2.9.0 to match the release.
 
 ViSP-images-2.8.0: July 24th, 2013:
 - Zip renaming in 2.8.0 to match the release.
