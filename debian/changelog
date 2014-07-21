@@ -1,3 +1,9 @@
+visp-images (2.9.0-2) unstable; urgency=medium
+
+  * Check gpg signature in debian/watch
+
+ -- Thomas Moulard <thomas.moulard@gmail.com>  Mon, 21 Jul 2014 22:19:30 +0900
+
 visp-images (2.9.0-1) unstable; urgency=medium
 
   * Import new upstream version 2.9.0
