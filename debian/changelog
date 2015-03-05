@@ -1,3 +1,11 @@
+visp-images (2.10.0-1) unstable; urgency=medium
+
+  * Imported Upstream version 2.10.0
+  * Fix lintian dep5-copyright-license-name-not-unique warning
+  * Fix lintian out-of-date-standards-version warning
+
+ -- Fabien Spindler <Fabien.Spindler@inria.fr>  Thu, 05 Mar 2015 20:27:56 +0100
+
 visp-images (2.9.0-2) unstable; urgency=medium
 
   * Check gpg signature in debian/watch
