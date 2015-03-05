@@ -4,7 +4,7 @@ Uploaders: Thomas Moulard <thomas.moulard@gmail.com>, Fabien Spindler <Fabien.Sp
 Section: science
 Priority: extra
 Build-Depends: debhelper (>= 9)
-Standards-Version: 3.9.5
+Standards-Version: 3.9.6
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=debian-science/packages/visp-images.git
 Vcs-Git: git://anonscm.debian.org/debian-science/packages/visp-images.git
 Homepage: http://www.irisa.fr/lagadic/visp/visp.html
