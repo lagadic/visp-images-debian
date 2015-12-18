@@ -6,6 +6,3 @@
 %:
 	dh  $@ --parallel
 
-override_dh_fixperms:
-	chmod 644 debian/visp-images-data/usr/share/visp-images-data/ViSP-images/mire/mire.jpg
-	dh_fixperms --

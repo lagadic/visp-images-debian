@@ -1,7 +1,7 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: ViSP
 Upstream-Contact: visp@inria.fr
-Source: http://www.irisa.fr/lagadic/visp/download.html
+Source: http://visp.inria.fr
 
 Files: *
 Copyright: 2005-2015, Inria
