@@ -3,5 +3,5 @@ version=3
 # the final release.
 opts=uversionmangle=s/(\d)[_\.\-\+]?((RC|rc|pre|dev|beta|alpha)\d*)$/$1~$2/,\
 pgpsigurlmangle=s/$/.asc/ \
-http://www.irisa.fr/lagadic/visp/download.html \
-download/sequence/ViSP-images-(.*).zip
+http://visp.inria.fr/download \
+(?:.*/|)ViSP-images-(\d\S*).zip
