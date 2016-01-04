@@ -1,7 +1,6 @@
 #!/usr/bin/make -f
 # -*- makefile -*-
 
-.PHONY: override_dh_fixperms
 
 %:
 	dh  $@ --parallel
