@@ -4,10 +4,10 @@ Uploaders: Fabien Spindler <Fabien.Spindler@inria.fr>, Olivier Sallou <osallou@d
 Section: science
 Priority: extra
 Build-Depends: debhelper (>= 9)
-Standards-Version: 3.9.6
-Vcs-Browser: http://anonscm.debian.org/gitweb/?p=debian-science/packages/visp-images.git
-Vcs-Git: git://anonscm.debian.org/debian-science/packages/visp-images.git
-Homepage: http://visp.inria.fr
+Standards-Version: 3.9.8
+Vcs-Browser: https://anonscm.debian.org/git/debian-science/packages/visp-images.git
+Vcs-Git: https://anonscm.debian.org/git/debian-science/packages/visp-images.git
+Homepage: https://visp.inria.fr
 
 Package: visp-images-data
 Architecture: all

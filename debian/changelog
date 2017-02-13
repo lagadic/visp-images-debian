@@ -1,3 +1,10 @@
+visp-images (3.0.1-1) unstable; urgency=medium
+
+  * New upstream version 3.0.1
+  * Update debian material for 3.0.1
+
+ -- Fabien Spindler <Fabien.Spindler@inria.fr>  Tue, 07 Feb 2017 13:46:21 +0100
+
 visp-images (3.0.0-2) unstable; urgency=medium
 
   * Make build reproducible (Closes: #808943)
