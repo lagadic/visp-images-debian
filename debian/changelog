@@ -1,3 +1,14 @@
+visp-images (3.1.0-1) unstable; urgency=medium
+
+  * Update debian policy to the latest 4.1.1
+  * Set priority as optional to prevent lintian warning 
+    Override says science - optional, .deb says science - extra
+  * Update watch to detect visp-images 3.1.0 in 
+    https://visp-doc.inria.fr/download/dataset
+  * New upstream version 3.1.0
+
+ -- Fabien Spindler <Fabien.Spindler@inria.fr>  Tue, 05 Dec 2017 12:22:58 +0100
+
 visp-images (3.0.1-1) unstable; urgency=medium
 
   * New upstream version 3.0.1
